@@ -1,0 +1,28 @@
+body{
+    background-color: darkgray;
+    
+}
+h1{
+    text-align: center;
+    align-items: center;
+    color: brown;
+
+}
+h2{
+    align-items: stretch;
+    color: crimson;
+}
+h3{
+    align-items:center ;
+    color:rgb(113, 15, 15) ;
+
+}
+
+p class1{
+    text-align: left;
+    color: blue;
+    
+}
+h1{
+    align-self: center;
+}
